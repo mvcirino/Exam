@@ -11,5 +11,5 @@ The output must be something like:
 ![ex3_output](../images/ex3_output.png)
 
 
-![ex3_artifacts](./images/ex3_artifacts.png)
+![ex3_artifacts](../images/ex3_artifacts.png)
 
