@@ -1,0 +1,37 @@
+bands:
+  - name: The Beatles
+    initials: BT
+    genre: Rock n' Roll (Classic)
+    members:  John Lennon, Paul McCartney, George Harrison, Ringo Starr
+    about: The Beatles were an English rock band formed in Liverpool in 1960. The group, whose best-known line-up comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr, are regarded as the most influential band of all time.[1] They were integral to the development of 1960s counterculture and popular music's recognition as an art form.[2] Rooted in skiffle, beat and 1950s rock and roll, their sound incorporated elements of classical music and traditional pop in innovative ways; the band later explored music styles ranging from ballads and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements
+    musics:
+      - name: Let it Be
+        album: Let It Be - 1970
+      - name: Come Together
+        album: Abbey Road - 1969
+      - name: Help!
+        album: Help! - 1965
+  - name: Queen
+    initials: QN
+    genre: Rock n' Roll  (80's)
+    members:  Brian May, Freddie Mercury, John Deacon, Roger Taylor
+    about: Queen are a British rock band formed in London in 1970. Their classic line-up was Freddie Mercury (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals) and John Deacon (bass). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock. 
+    musics:
+      - name: Bohemian Rhapsody
+        album: A Night at the Opera - 1975
+      - name: We Will Rock You
+        album: News of the World - 1977
+      - name: We Are The Champions
+        album: News of the World - 1977
+  - name: Guns N' Roses
+    initials: GR
+    genre: Hard Rock
+    members:  Axl Rose, Slash, Duff McKagan, Richard Fortus, Frank Ferrer, Dizzy Reed, Melissa Reese
+    about: Guns N' Roses, often abbreviated as GNR, is an American hard rock band from Los Angeles, California, formed in 1985. When they signed to Geffen Records in 1986, the band comprised vocalist Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler. The current lineup consists of Rose, Slash, McKagan, guitarist Richard Fortus, drummer Frank Ferrer and keyboardists Dizzy Reed and Melissa Reese. 
+    musics:
+      - name: Sweet Child O' Mine
+        album: Appetite For Destruction - 1987
+      - name: November Rain
+        album: Use Your Illusion I - 1991
+      - name: Welcome to the Jungle
+        album: Appetite For Destruction - 1987
