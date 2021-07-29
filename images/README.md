@@ -1,1 +1,1 @@
-Just to stroe images
+Just to store images
