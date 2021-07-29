@@ -15,4 +15,6 @@ In order to do so:
 
 
 The result must be simmilar to this:
+
+
 ![EX2-Output](../images/ex2-output.png)
