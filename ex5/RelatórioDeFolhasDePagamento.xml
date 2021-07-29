@@ -1,0 +1,4024 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tabledata>
+	<fields>
+		<field>Servidor:</field>
+		<field>Matrícula:</field>
+		<field>Data de Admissão:</field>
+		<field>Ato de Admissão:</field>
+		<field>Carga Horária:</field>
+		<field>Cargo:</field>
+		<field>Seção:</field>
+		<field>Tipo de Vínculo:</field>
+		<field>Órgão:</field>
+		<field>Tipo de Admissão:</field>
+		<field>Referência:</field>
+		<field>Tipo de Pagamento:</field>
+		<field>Salário Bruto:</field>
+		<field>Descontos:</field>
+	</fields>
+	<data>
+		<row id="1">
+			<column-0>ABDIEL PEREIRA DOS SANTOS</column-0>
+			<column-1>1</column-1>
+			<column-2>16/01/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>CHEFE DO DEP.TO DE TRANSPORTES</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Trabalhador urbano vinculado a empregador pessoa jursdica por contrato de trabalho regido pela CLT, por prazo indeterminado.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.050,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="2">
+			<column-0>ADAILTON SIQUEIRA SOARES</column-0>
+			<column-1>2</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 001 de 09/02/1995</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR ESPECIAL I</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.516,00</column-12>
+			<column-13>730,60</column-13>
+		</row>
+		<row id="3">
+			<column-0>ADELAIDE DE ALMEIDA AMORIM CARVALHO</column-0>
+			<column-1>257</column-1>
+			<column-2>20/10/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Secretaria de Financas</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.597,24</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="4">
+			<column-0>ADERALDO DA COSTA SILVA</column-0>
+			<column-1>9</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 067 de 04/02/2002</column-3>
+			<column-4>180</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.798,42</column-12>
+			<column-13>547,06</column-13>
+		</row>
+		<row id="5">
+			<column-0>ADISON ALVES DA SILVA</column-0>
+			<column-1>519</column-1>
+			<column-2>03/02/2012</column-2>
+			<column-3>DECRETO 001 de 15/02/2017</column-3>
+			<column-4>220</column-4>
+			<column-5>CHEFE DA VIGILANCIA SANITARIA</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.058,62</column-12>
+			<column-13>386,99</column-13>
+		</row>
+		<row id="6">
+			<column-0>AILTON CAMPOS DE OLIVEIRA</column-0>
+			<column-1>566</column-1>
+			<column-2>08/03/2017</column-2>
+			<column-3>CONTRATO 001 de 08/03/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.808,62</column-12>
+			<column-13>341,50</column-13>
+		</row>
+		<row id="7">
+			<column-0>ALCIONE GUEDES CALIXTO</column-0>
+			<column-1>6</column-1>
+			<column-2>01/02/1996</column-2>
+			<column-3>PORTARIA 001 de 01/02/1996</column-3>
+			<column-4>120</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.799,26</column-12>
+			<column-13>316,35</column-13>
+		</row>
+		<row id="8">
+			<column-0>ALDAIR MENDES DOS SANTOS DIAS</column-0>
+			<column-1>389</column-1>
+			<column-2>24/02/2010</column-2>
+			<column-3>PORTARIA 001 de 24/02/2010</column-3>
+			<column-4>120</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.238,68</column-12>
+			<column-13>190,26</column-13>
+		</row>
+		<row id="9">
+			<column-0>ALDAIR MENDES DOS SANTOS DIAS</column-0>
+			<column-1>389</column-1>
+			<column-2>24/02/2010</column-2>
+			<column-3>PORTARIA 001 de 24/02/2010</column-3>
+			<column-4>120</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>2.238,68</column-12>
+			<column-13>190,26</column-13>
+		</row>
+		<row id="10">
+			<column-0>ALESSANDRA MENDANHA FAGUNDES</column-0>
+			<column-1>15</column-1>
+			<column-2>16/01/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>COORDENADOR MUL DE UNIDADES DE SAUDE</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.400,00</column-12>
+			<column-13>606,57</column-13>
+		</row>
+		<row id="11">
+			<column-0>ALFREDO NASSER FERREIRA MACHADO</column-0>
+			<column-1>19</column-1>
+			<column-2>01/04/2019</column-2>
+			<column-3>DECRETO 001 de 01/04/2019</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR DE CURRICULUM</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.524,86</column-12>
+			<column-13>501,64</column-13>
+		</row>
+		<row id="12">
+			<column-0>ALFREDO NASSER FERREIRA MACHADO</column-0>
+			<column-1>19</column-1>
+			<column-2>01/04/2019</column-2>
+			<column-3>DECRETO 001 de 01/04/2019</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR DE CURRICULUM</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>3.174,86</column-12>
+			<column-13>333,31</column-13>
+		</row>
+		<row id="13">
+			<column-0>ALICE NUNES FRANCA MENDANHA</column-0>
+			<column-1>261</column-1>
+			<column-2>02/02/2007</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="14">
+			<column-0>AMANDA SANTOS MONTALVAO</column-0>
+			<column-1>637</column-1>
+			<column-2>15/02/2021</column-2>
+			<column-3>DECRETO 050 de 15/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE TURMA DA EDUCACAO INFANTIL</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>666,66</column-12>
+			<column-13>49,99</column-13>
+		</row>
+		<row id="15">
+			<column-0>ANA ALVES DE SOUZA</column-0>
+			<column-1>7</column-1>
+			<column-2>01/02/1995</column-2>
+			<column-3>PORTARIA 001 de 01/02/1995</column-3>
+			<column-4>190</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.498,62</column-12>
+			<column-13>754,83</column-13>
+		</row>
+		<row id="16">
+			<column-0>ANA CAROLINA GONCALVES NERY FELIPE</column-0>
+			<column-1>618</column-1>
+			<column-2>01/09/2020</column-2>
+			<column-3>CONTRATO 001 de 01/09/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>ENFERMEIRO - DETERMINADO</column-5>
+			<column-6>CORANAVIRUS-COVID-19</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.800,00</column-12>
+			<column-13>342,69</column-13>
+		</row>
+		<row id="17">
+			<column-0>ANA PAULA DOS SANTOS</column-0>
+			<column-1>530</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>DECRETO 002 de 04/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>Secretario de Administracao</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Rescisorio</column-11>
+			<column-12>3.466,66</column-12>
+			<column-13>208,57</column-13>
+		</row>
+		<row id="18">
+			<column-0>ANGELA CARDOSO</column-0>
+			<column-1>14</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.298,62</column-12>
+			<column-13>355,22</column-13>
+		</row>
+		<row id="19">
+			<column-0>ANTONIA MOREIRA CARNEIRO</column-0>
+			<column-1>12</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ATENDENTE DE SERVICO SOCIAL</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Ferias</column-11>
+			<column-12>1.816,66</column-12>
+			<column-13>110,32</column-13>
+		</row>
+		<row id="20">
+			<column-0>ANTONIA MOREIRA CARNEIRO</column-0>
+			<column-1>12</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ATENDENTE DE SERVICO SOCIAL</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.400,00</column-12>
+			<column-13>110,32</column-13>
+		</row>
+		<row id="21">
+			<column-0>ANTONIO CESAR CUNHA</column-0>
+			<column-1>18</column-1>
+			<column-2>07/01/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.623,57</column-12>
+			<column-13>143,52</column-13>
+		</row>
+		<row id="22">
+			<column-0>ANTONIO CESAR CUNHA</column-0>
+			<column-1>18</column-1>
+			<column-2>07/01/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Complemento de Folha de Pagamento</column-11>
+			<column-12>166,87</column-12>
+			<column-13>0,00</column-13>
+		</row>
+		<row id="23">
+			<column-0>ANTONIO COSTA LOPES</column-0>
+			<column-1>211</column-1>
+			<column-2>01/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="24">
+			<column-0>ANTONIO DIAS DE FARIAS</column-0>
+			<column-1>17</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>5.234,35</column-12>
+			<column-13>1.789,03</column-13>
+		</row>
+		<row id="25">
+			<column-0>ARLETE DE SOUZA SANTOS</column-0>
+			<column-1>11</column-1>
+			<column-2>12/04/2006</column-2>
+			<column-3>PORTARIA 001 de 12/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.798,62</column-12>
+			<column-13>510,18</column-13>
+		</row>
+		<row id="26">
+			<column-0>AVILSON SIQUEIRA SOARES</column-0>
+			<column-1>206</column-1>
+			<column-2>01/02/2002</column-2>
+			<column-3>PORTARIA 049 de 01/02/2002</column-3>
+			<column-4>220</column-4>
+			<column-5>FISCAL DE TRIBUTOS</column-5>
+			<column-6>Secretaria de Financas</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.747,24</column-12>
+			<column-13>582,19</column-13>
+		</row>
+		<row id="27">
+			<column-0>CARLOS HENRIQUE GRACIANO</column-0>
+			<column-1>488</column-1>
+			<column-2>01/05/2013</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>OPERADOR DE MAQUINAS PESADAS-DETERMINADO</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.554,60</column-12>
+			<column-13>130,12</column-13>
+		</row>
+		<row id="28">
+			<column-0>CARMEM BANDEIRA SOARES</column-0>
+			<column-1>615</column-1>
+			<column-2>03/01/2020</column-2>
+			<column-3>CONTRATO 001 de 03/01/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>FARMACEUTICO</column-5>
+			<column-6>NASF-Nucleo de Apoio a Saude da Familia</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.000,00</column-12>
+			<column-13>164,32</column-13>
+		</row>
+		<row id="29">
+			<column-0>CAROLINA ALBERTO FERREIRA</column-0>
+			<column-1>21</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>190</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.009,45</column-12>
+			<column-13>642,01</column-13>
+		</row>
+		<row id="30">
+			<column-0>CELIA CORREIA DE MELO</column-0>
+			<column-1>231</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 034 de 17/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="31">
+			<column-0>CELIA CORREIA DE MELO</column-0>
+			<column-1>231</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 034 de 17/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="32">
+			<column-0>CELIA CORREIA DE MELO</column-0>
+			<column-1>231</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 034 de 17/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Complemento de Folha de Pagamento</column-11>
+			<column-12>450,00</column-12>
+			<column-13>0,00</column-13>
+		</row>
+		<row id="33">
+			<column-0>CELMA FERREIRA DOS SANTOS</column-0>
+			<column-1>280</column-1>
+			<column-2>29/01/2008</column-2>
+			<column-3>PORTARIA 001 de 29/01/2008</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.598,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="34">
+			<column-0>CICERO SOARES DA SILVA</column-0>
+			<column-1>29</column-1>
+			<column-2>01/01/2001</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>PENSIONISTA</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Processo Seletivo Simplificado (E.C. nr 51/06)</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>0,00</column-13>
+		</row>
+		<row id="35">
+			<column-0>CLAUDEMIVAL PEREIRA DOS SANTOS</column-0>
+			<column-1>180</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 001 de 17/04/2006</column-3>
+			<column-4>220</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>1.084,25</column-13>
+		</row>
+		<row id="36">
+			<column-0>CLAUDIA MARIA DE SOUZA CASTRO</column-0>
+			<column-1>265</column-1>
+			<column-2>15/05/2007</column-2>
+			<column-3>PORTARIA 001 de 15/05/2007</column-3>
+			<column-4>135</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.765,23</column-12>
+			<column-13>1.274,92</column-13>
+		</row>
+		<row id="37">
+			<column-0>CLEITON RIBEIRO DOS SANTOS</column-0>
+			<column-1>169</column-1>
+			<column-2>01/07/2018</column-2>
+			<column-3>CONTRATO 001 de 01/07/2018</column-3>
+			<column-4>200</column-4>
+			<column-5>TECNICO DE ENFERMAGEM - DETERMINADO</column-5>
+			<column-6>PAB - Programa de Atencao Basica</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.128,12</column-12>
+			<column-13>390,69</column-13>
+		</row>
+		<row id="38">
+			<column-0>CLEUDENICE LOPES BARROS DE OLIVEIRA</column-0>
+			<column-1>23</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="39">
+			<column-0>CLEUDIENE DIAS NETO LEAL</column-0>
+			<column-1>470</column-1>
+			<column-2>11/04/2008</column-2>
+			<column-3>PORTARIA 001 de 01/02/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>ORIENTADOR DE PROGRAMAS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.798,62</column-12>
+			<column-13>311,10</column-13>
+		</row>
+		<row id="40">
+			<column-0>CLEUZIMAR RODRIGUES DOS SANTOS</column-0>
+			<column-1>212</column-1>
+			<column-2>01/01/2014</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>ENFERMEIRO - DETERMINADO</column-5>
+			<column-6>PMAQ-RAB-Programa de Melhoria do Acesso e da Qualidade</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.800,00</column-12>
+			<column-13>328,47</column-13>
+		</row>
+		<row id="41">
+			<column-0>CLOVES RODRIGUES DE OLIVEIRA</column-0>
+			<column-1>271</column-1>
+			<column-2>12/05/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="42">
+			<column-0>CRISTIANE FERREIRA DE OLIVEIRA</column-0>
+			<column-1>190</column-1>
+			<column-2>01/08/2015</column-2>
+			<column-3>CONTRATO 001 de 01/08/2015</column-3>
+			<column-4>130</column-4>
+			<column-5>COORDENADOR PEDAGOGICO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.174,86</column-12>
+			<column-13>333,31</column-13>
+		</row>
+		<row id="43">
+			<column-0>CRISTIANO FRANCISCO DIAS</column-0>
+			<column-1>71</column-1>
+			<column-2>25/04/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="44">
+			<column-0>DANIELLE RODRIGUES DOS REIS</column-0>
+			<column-1>447</column-1>
+			<column-2>05/11/2020</column-2>
+			<column-3>DECRETO 003 de 02/01/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>Secretario de Saude e Saneamento</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>574,39</column-13>
+		</row>
+		<row id="45">
+			<column-0>DANIELLE RODRIGUES DOS REIS</column-0>
+			<column-1>447</column-1>
+			<column-2>05/11/2020</column-2>
+			<column-3>DECRETO 003 de 02/01/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>Secretario de Saude e Saneamento</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>574,39</column-13>
+		</row>
+		<row id="46">
+			<column-0>DARILENE NOGUEIRA DOS ANJOS</column-0>
+			<column-1>33</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="47">
+			<column-0>DAYANNE BATISTA DA SILVA</column-0>
+			<column-1>612</column-1>
+			<column-2>10/01/2020</column-2>
+			<column-3>DECRETO 001 de 10/01/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>Conselheiro Tutelar</column-5>
+			<column-6>CONSELHO TUTELAR</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Conselho Tutelar</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.148,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="48">
+			<column-0>DEUSIMAR NEVES CARDOSO</column-0>
+			<column-1>304</column-1>
+			<column-2>22/08/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.623,57</column-12>
+			<column-13>441,81</column-13>
+		</row>
+		<row id="49">
+			<column-0>DEUSIRENE DIAS DE FARIAS SANTOS</column-0>
+			<column-1>217</column-1>
+			<column-2>03/01/1996</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.400,00</column-12>
+			<column-13>496,12</column-13>
+		</row>
+		<row id="50">
+			<column-0>DEUSIRENE NEVES CARDOSO DE OLIVEIRA</column-0>
+			<column-1>221</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>DECRETO 016 de 04/01/2021</column-3>
+			<column-4>220</column-4>
+			<column-5>Coordenador do CRAS</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.880,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="51">
+			<column-0>DINALVA CAMPOS DE AGUIAR OLIVEIRA</column-0>
+			<column-1>591</column-1>
+			<column-2>14/02/2019</column-2>
+			<column-3>DECRETO 001 de 14/02/2019</column-3>
+			<column-4>200</column-4>
+			<column-5>Orientador Educacional</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.526,00</column-12>
+			<column-13>121,66</column-13>
+		</row>
+		<row id="52">
+			<column-0>DIOGO RICARDO DA SILVA SANTOS</column-0>
+			<column-1>620</column-1>
+			<column-2>02/10/2017</column-2>
+			<column-3>CONTRATO 001 de 01/10/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>MECANICO GERAL - DETERMINADO</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.905,00</column-12>
+			<column-13>119,32</column-13>
+		</row>
+		<row id="53">
+			<column-0>DIRCELIA DOS SANTOS MARTINS</column-0>
+			<column-1>502</column-1>
+			<column-2>13/03/2014</column-2>
+			<column-3>DECRETO 001 de 04/01/2021</column-3>
+			<column-4>220</column-4>
+			<column-5>Secretario de Trab Assistencia Social e</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>517,51</column-13>
+		</row>
+		<row id="54">
+			<column-0>DIRCELIA DOS SANTOS MARTINS</column-0>
+			<column-1>502</column-1>
+			<column-2>13/03/2014</column-2>
+			<column-3>DECRETO 001 de 04/01/2021</column-3>
+			<column-4>220</column-4>
+			<column-5>Secretario de Trab Assistencia Social e</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>517,51</column-13>
+		</row>
+		<row id="55">
+			<column-0>DOMINGOS DE JESUS PEREIRA DA SILVA</column-0>
+			<column-1>593</column-1>
+			<column-2>01/02/2019</column-2>
+			<column-3>CONTRATO 001 de 01/02/2019</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.318,75</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="56">
+			<column-0>DULCE DA SILVA CAMPOS</column-0>
+			<column-1>431</column-1>
+			<column-2>03/02/2012</column-2>
+			<column-3>PORTARIA 001 de 03/01/2012</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO - DETERMINADO</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.298,62</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="57">
+			<column-0>EDELMA MARIA ALVES RIBEIRO SOARES</column-0>
+			<column-1>177</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>175</column-4>
+			<column-5>Diretor de Escola Grande Porte</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>5.225,35</column-12>
+			<column-13>869,22</column-13>
+		</row>
+		<row id="58">
+			<column-0>EDICIANE LOPO DE JESUS</column-0>
+			<column-1>537</column-1>
+			<column-2>01/04/2019</column-2>
+			<column-3>CONTRATO 001 de 01/04/2019</column-3>
+			<column-4>200</column-4>
+			<column-5>TECNICO DE ENFERMAGEM - DETERMINADO</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.856,25</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="59">
+			<column-0>EDILEUZA DIAS DOS SANTOS VIEIRA</column-0>
+			<column-1>208</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 001 de 17/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.350,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="60">
+			<column-0>EDINALVA SILVA FARIAS</column-0>
+			<column-1>228</column-1>
+			<column-2>28/01/2008</column-2>
+			<column-3>PORTARIA 001 de 28/01/2008</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.421,05</column-12>
+			<column-13>1.205,54</column-13>
+		</row>
+		<row id="61">
+			<column-0>EDINALVA SILVA FARIAS</column-0>
+			<column-1>228</column-1>
+			<column-2>28/01/2008</column-2>
+			<column-3>PORTARIA 001 de 28/01/2008</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>3.843,93</column-12>
+			<column-13>530,86</column-13>
+		</row>
+		<row id="62">
+			<column-0>EDINON FRANCISCO REGES</column-0>
+			<column-1>225</column-1>
+			<column-2>11/04/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.760,00</column-12>
+			<column-13>346,35</column-13>
+		</row>
+		<row id="63">
+			<column-0>EDIVANIA DA SILVA SANTOS</column-0>
+			<column-1>525</column-1>
+			<column-2>02/01/2011</column-2>
+			<column-3>CONTRATO 001 de 01/07/2015</column-3>
+			<column-4>200</column-4>
+			<column-5>AGENTE COMUNIT. DE SAUDE - DETERMINADO</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="64">
+			<column-0>EDMILSON AGUIAR PORTILHO</column-0>
+			<column-1>547</column-1>
+			<column-2>01/05/2015</column-2>
+			<column-3>DECRETO 045 de 01/05/2015</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Secretaria de Financas</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.500,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="65">
+			<column-0>EDVAR MOREIRA DA CRUZ</column-0>
+			<column-1>172</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="66">
+			<column-0>ELANE FERREIRA DAS NEVES</column-0>
+			<column-1>42</column-1>
+			<column-2>19/04/2006</column-2>
+			<column-3>PORTARIA 001 de 19/04/2006</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.072,49</column-12>
+			<column-13>385,44</column-13>
+		</row>
+		<row id="67">
+			<column-0>ELIEGIA PATRICIA RIBEIRO ROCHA</column-0>
+			<column-1>44</column-1>
+			<column-2>03/03/2003</column-2>
+			<column-3>PORTARIA 001 de 03/03/2003</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.072,49</column-12>
+			<column-13>341,96</column-13>
+		</row>
+		<row id="68">
+			<column-0>ELIELTON FERREIRA DE SOUZA</column-0>
+			<column-1>420</column-1>
+			<column-2>01/06/2011</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.636,25</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="69">
+			<column-0>ELIOMAR RODRIGUES DE ARAUJO</column-0>
+			<column-1>452</column-1>
+			<column-2>05/11/2020</column-2>
+			<column-3>PORTARIA 001 de 05/11/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>Secretaria de Meio Ambiente e Turismo</column-5>
+			<column-6>Secretaria de Meio Ambiente e Turismo</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>574,39</column-13>
+		</row>
+		<row id="70">
+			<column-0>ELISMAR DE ALMEIDA</column-0>
+			<column-1>207</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>Chefe do Dept. de Fiscalizacao de Obras</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.750,00</column-12>
+			<column-13>119,32</column-13>
+		</row>
+		<row id="71">
+			<column-0>ELIZANGELA SANTANA FRANCISCO ROCHA</column-0>
+			<column-1>575</column-1>
+			<column-2>21/08/2017</column-2>
+			<column-3>CONTRATO 001 de 21/08/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE-DETERMINADO</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>337,90</column-13>
+		</row>
+		<row id="72">
+			<column-0>ELIZETE SIMPLICIO OLIVEIRA ANDRADE</column-0>
+			<column-1>37</column-1>
+			<column-2>29/12/1995</column-2>
+			<column-3>PORTARIA 001 de 29/12/1995</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.917,63</column-12>
+			<column-13>894,57</column-13>
+		</row>
+		<row id="73">
+			<column-0>ELZA PEREIRA DA SILVA</column-0>
+			<column-1>39</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.014,63</column-12>
+			<column-13>375,56</column-13>
+		</row>
+		<row id="74">
+			<column-0>ELZA PEREIRA DA SILVA</column-0>
+			<column-1>39</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>3.014,63</column-12>
+			<column-13>345,42</column-13>
+		</row>
+		<row id="75">
+			<column-0>EMERSON MOREIRA DA COSTA</column-0>
+			<column-1>245</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>DECRETO 019 de 04/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>DIRETOR MUNICIPAL DE ESPORTE</column-5>
+			<column-6>Secretaria de Educacao</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.400,00</column-12>
+			<column-13>119,32</column-13>
+		</row>
+		<row id="76">
+			<column-0>EURIDES ALVES DE SOUZA</column-0>
+			<column-1>433</column-1>
+			<column-2>01/02/2019</column-2>
+			<column-3>DECRETO 001 de 01/02/2019</column-3>
+			<column-4>200</column-4>
+			<column-5>Conselheiro Tutelar</column-5>
+			<column-6>CONSELHO TUTELAR</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Conselho Tutelar</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="77">
+			<column-0>EURIPEDES LEAL DE FREITAS</column-0>
+			<column-1>36</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>COLETOR MUNICIPAL</column-5>
+			<column-6>Secretaria de Financas</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.016,00</column-12>
+			<column-13>165,76</column-13>
+		</row>
+		<row id="78">
+			<column-0>EURIVAL DA CUNHA SOARES</column-0>
+			<column-1>454</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>DECRETO 021 de 04/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>DIRETOR DE UNIDADE DE SAUDE</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.880,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="79">
+			<column-0>EUSILENE RODRIGUES DOS SANTOS</column-0>
+			<column-1>191</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.220,48</column-12>
+			<column-13>662,07</column-13>
+		</row>
+		<row id="80">
+			<column-0>EUSIMAR RODRIGUES FERREIRA</column-0>
+			<column-1>40</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 081 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>COORDENADOR PEDAGOGICO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.620,48</column-12>
+			<column-13>1.509,54</column-13>
+		</row>
+		<row id="81">
+			<column-0>EVA RAMALHO SILVA</column-0>
+			<column-1>43</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>ENTREVISTADOR DO CADASTRO UNICO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.070,00</column-12>
+			<column-13>857,58</column-13>
+		</row>
+		<row id="82">
+			<column-0>EVELI OLIVEIRA ALVES</column-0>
+			<column-1>246</column-1>
+			<column-2>02/05/2006</column-2>
+			<column-3>PORTARIA 001 de 02/05/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE TURMA DA EDUCACAO INFANTIL</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>442,27</column-13>
+		</row>
+		<row id="83">
+			<column-0>FABIO FILEMON MIGUEL</column-0>
+			<column-1>611</column-1>
+			<column-2>06/01/2020</column-2>
+			<column-3>CONTRATO 001 de 06/01/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>ENFERMEIRO - DETERMINADO</column-5>
+			<column-6>PMAQ-RAB-Programa de Melhoria do Acesso e da Qualidade</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.800,00</column-12>
+			<column-13>342,69</column-13>
+		</row>
+		<row id="84">
+			<column-0>FERNANDA ALVES DE OLIVEIRA</column-0>
+			<column-1>45</column-1>
+			<column-2>09/02/1996</column-2>
+			<column-3>PORTARIA 001 de 09/02/1993</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.499,09</column-12>
+			<column-13>498,06</column-13>
+		</row>
+		<row id="85">
+			<column-0>FRANCIELLE BERNARDES DE SOUZA</column-0>
+			<column-1>468</column-1>
+			<column-2>01/02/2013</column-2>
+			<column-3>PORTARIA 001 de 01/02/2013</column-3>
+			<column-4>175</column-4>
+			<column-5>AUXILIAR DE TURMA DA EDUCACAO INFANTIL</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="86">
+			<column-0>GEIZIEL ALVES CAMPOS</column-0>
+			<column-1>281</column-1>
+			<column-2>30/01/2008</column-2>
+			<column-3>PORTARIA 010 de 30/01/2008</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>ACE-Agente de Combate a Endemias</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.860,00</column-12>
+			<column-13>194,38</column-13>
+		</row>
+		<row id="87">
+			<column-0>GILVAN CARLOS MENDES</column-0>
+			<column-1>275</column-1>
+			<column-2>02/05/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="88">
+			<column-0>HADAILZA FRANCISCO REGES</column-0>
+			<column-1>476</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="89">
+			<column-0>HELDER PEREIRA REGES</column-0>
+			<column-1>631</column-1>
+			<column-2>26/01/2021</column-2>
+			<column-3>DECRETO 028 de 26/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>COORDENADOR DA VIGILANCIA SANITARIA</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.210,00</column-12>
+			<column-13>147,22</column-13>
+		</row>
+		<row id="90">
+			<column-0>ILMA OROSINA DOS SANTOS</column-0>
+			<column-1>282</column-1>
+			<column-2>25/01/2008</column-2>
+			<column-3>PORTARIA 001 de 25/01/2008</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="91">
+			<column-0>IODETE FRANCISCA DE ALMEIDA</column-0>
+			<column-1>56</column-1>
+			<column-2>02/01/2009</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="92">
+			<column-0>IRANILDA AGUIAR RIBEIRO DOS SANTOS</column-0>
+			<column-1>185</column-1>
+			<column-2>02/04/2007</column-2>
+			<column-3>PORTARIA 001 de 02/04/2007</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.148,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="93">
+			<column-0>ITANAA ALVES DOS SANTOS</column-0>
+			<column-1>439</column-1>
+			<column-2>02/10/2017</column-2>
+			<column-3>CONTRATO 001 de 02/10/2017</column-3>
+			<column-4>220</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="94">
+			<column-0>IVANILDE CUNHA SOARES DE NAZARETH</column-0>
+			<column-1>55</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 098 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.702,82</column-12>
+			<column-13>822,92</column-13>
+		</row>
+		<row id="95">
+			<column-0>IZIDIO PEREIRA DOS SANTOS</column-0>
+			<column-1>52</column-1>
+			<column-2>05/11/2020</column-2>
+			<column-3>DECRETO 002 de 02/01/2017</column-3>
+			<column-4>220</column-4>
+			<column-5>Secretario de Financas</column-5>
+			<column-6>Secretaria de Financas</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>574,39</column-13>
+		</row>
+		<row id="96">
+			<column-0>JALDO RODRIGUES DOS SANTOS</column-0>
+			<column-1>62</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.959,69</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="97">
+			<column-0>JAMIL RIBEIRO</column-0>
+			<column-1>628</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>ATA 001 de 04/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>VICE PREFEITO MUNICIPAL</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Vice-Prefeito</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.700,00</column-12>
+			<column-13>779,33</column-13>
+		</row>
+		<row id="98">
+			<column-0>JEOVA DAS MERCES VICENTE</column-0>
+			<column-1>64</column-1>
+			<column-2>29/12/1995</column-2>
+			<column-3>PORTARIA 001 de 29/12/1995</column-3>
+			<column-4>200</column-4>
+			<column-5>Coordenador Pedagogico Municipal</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.665,44</column-12>
+			<column-13>725,14</column-13>
+		</row>
+		<row id="99">
+			<column-0>JESSICA DI MARI ANCIOTO</column-0>
+			<column-1>574</column-1>
+			<column-2>17/07/2017</column-2>
+			<column-3>CONTRATO 001 de 17/07/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>PSICOLOGO - DETERMINADO</column-5>
+			<column-6>NASF-Nucleo de Apoio a Saude da Familia</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.500,00</column-12>
+			<column-13>164,32</column-13>
+		</row>
+		<row id="100">
+			<column-0>JOANA RODRIGUES DOS SANTOS</column-0>
+			<column-1>188</column-1>
+			<column-2>05/11/2020</column-2>
+			<column-3>DECRETO 075 de 02/01/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR DE CURRICULUM</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.174,86</column-12>
+			<column-13>379,32</column-13>
+		</row>
+		<row id="101">
+			<column-0>JOANA RODRIGUES DOS SANTOS</column-0>
+			<column-1>188</column-1>
+			<column-2>05/11/2020</column-2>
+			<column-3>DECRETO 075 de 02/01/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR DE CURRICULUM</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>3.174,86</column-12>
+			<column-13>379,32</column-13>
+		</row>
+		<row id="102">
+			<column-0>JOAO AGUIAR PORTILHO</column-0>
+			<column-1>632</column-1>
+			<column-2>01/02/2021</column-2>
+			<column-3>DECRETO 037 de 01/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>Secretario de Agricultura e Pecuaria</column-5>
+			<column-6>Secretaria de Agricultura e Pecuaria</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>574,39</column-13>
+		</row>
+		<row id="103">
+			<column-0>JOAO RIBEIRO DE MACEDO</column-0>
+			<column-1>77</column-1>
+			<column-2>03/05/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="104">
+			<column-0>JOAO RODRIGUES DOS SANTOS FILHO</column-0>
+			<column-1>78</column-1>
+			<column-2>15/10/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>TECNICO DE INFORMATICA</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.200,00</column-12>
+			<column-13>824,32</column-13>
+		</row>
+		<row id="105">
+			<column-0>JOAO RODRIGUES DOS SANTOS FILHO</column-0>
+			<column-1>78</column-1>
+			<column-2>15/10/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>TECNICO DE INFORMATICA</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>164,32</column-13>
+		</row>
+		<row id="106">
+			<column-0>JOELMA LIAL DE FREITAS</column-0>
+			<column-1>456</column-1>
+			<column-2>02/01/2013</column-2>
+			<column-3>PORTARIA 001 de 02/01/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR ESPECIAL II</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.800,00</column-12>
+			<column-13>534,70</column-13>
+		</row>
+		<row id="107">
+			<column-0>JOHABIA LOURENA DE FREITAS SERPA</column-0>
+			<column-1>551</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>CONTRATO 001 de 04/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>EDUCADOR FISICO</column-5>
+			<column-6>ACADEMIA DA SAUDE</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>164,32</column-13>
+		</row>
+		<row id="108">
+			<column-0>JOSE ANTONIO NETO MEDRADO</column-0>
+			<column-1>276</column-1>
+			<column-2>10/07/2007</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.176,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="109">
+			<column-0>JOSE MATIAS RODRIGUES DA SLVA</column-0>
+			<column-1>74</column-1>
+			<column-2>01/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.672,19</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="110">
+			<column-0>JOSE ONOFRE SOARES</column-0>
+			<column-1>75</column-1>
+			<column-2>07/01/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.318,75</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="111">
+			<column-0>JOSE TADEU MARTINS LEAO</column-0>
+			<column-1>619</column-1>
+			<column-2>21/09/2020</column-2>
+			<column-3>CONTRATO 001 de 21/09/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>ODONTOLOGO - DETERMINADO</column-5>
+			<column-6>SB-SAUDE BUCAL</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.200,00</column-12>
+			<column-13>92,32</column-13>
+		</row>
+		<row id="112">
+			<column-0>JOSE VIANA DA SILVA FILHO</column-0>
+			<column-1>166</column-1>
+			<column-2>02/01/2009</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="113">
+			<column-0>JOSEFA OLIVEIRA DE SOUZA</column-0>
+			<column-1>72</column-1>
+			<column-2>08/01/1996</column-2>
+			<column-3>PORTARIA 001 de 08/01/1996</column-3>
+			<column-4>100</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.142,34</column-12>
+			<column-13>87,13</column-13>
+		</row>
+		<row id="114">
+			<column-0>JOSIEL DA COSTA MOREIRA</column-0>
+			<column-1>73</column-1>
+			<column-2>03/01/1996</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.736,07</column-12>
+			<column-13>103,57</column-13>
+		</row>
+		<row id="115">
+			<column-0>JOSIMAR FERREIRA DA SILVA</column-0>
+			<column-1>66</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>CONTRATO 001 de 04/01/2021</column-3>
+			<column-4>220</column-4>
+			<column-5>OPERADOR DE MAQUINAS PESADAS</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.020,00</column-12>
+			<column-13>130,12</column-13>
+		</row>
+		<row id="116">
+			<column-0>JOSSAN GOMES DE MELO</column-0>
+			<column-1>633</column-1>
+			<column-2>01/02/2021</column-2>
+			<column-3>DECRETO 039 de 01/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR ESPECIAL I</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>119,32</column-13>
+		</row>
+		<row id="117">
+			<column-0>JUCELINA FERREIRA CARDOSO</column-0>
+			<column-1>80</column-1>
+			<column-2>02/08/1993</column-2>
+			<column-3>PORTARIA 001 de 02/08/1993</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Rescisorio</column-11>
+			<column-12>3.422,20</column-12>
+			<column-13>84,11</column-13>
+		</row>
+		<row id="118">
+			<column-0>JUHLLY STEPHANY GOMES AMORIM RODRIGUES</column-0>
+			<column-1>549</column-1>
+			<column-2>01/02/2017</column-2>
+			<column-3>CONTRATO 001 de 01/02/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>TEC. DE REFERENCIA PARA A PROTECAO SOCIA</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>501,93</column-13>
+		</row>
+		<row id="119">
+			<column-0>JULIVAN GOMES DE MELO</column-0>
+			<column-1>467</column-1>
+			<column-2>01/02/2013</column-2>
+			<column-3>PORTARIA 001 de 01/02/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>341,95</column-12>
+			<column-13>21,99</column-13>
+		</row>
+		<row id="120">
+			<column-0>JUNIOR CEZAR GRACIANO</column-0>
+			<column-1>81</column-1>
+			<column-2>01/08/2003</column-2>
+			<column-3>PORTARIA 001 de 01/08/2003</column-3>
+			<column-4>100</column-4>
+			<column-5>Secretario de Educacao</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>957,51</column-13>
+		</row>
+		<row id="121">
+			<column-0>KEILA SIQUEIRA SOARES DOS SANTOS</column-0>
+			<column-1>182</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>160</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.622,43</column-12>
+			<column-13>1.645,54</column-13>
+		</row>
+		<row id="122">
+			<column-0>KELLY OLIVEIRA ANDRADE</column-0>
+			<column-1>583</column-1>
+			<column-2>20/08/2018</column-2>
+			<column-3>DECRETO 015 de 20/08/2018</column-3>
+			<column-4>220</column-4>
+			<column-5>CHEFE DO DEPTO DE COMPRAS</column-5>
+			<column-6>Secretaria de Controle Interno</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.300,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="123">
+			<column-0>KEZIA DOS SANTOS RABELO</column-0>
+			<column-1>635</column-1>
+			<column-2>11/02/2021</column-2>
+			<column-3>DECRETO 047 de 11/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>TECNICO DE ENFERMAGEM</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>833,33</column-12>
+			<column-13>62,49</column-13>
+		</row>
+		<row id="124">
+			<column-0>LAURA DA CONCEICAO DA COSTA RODRIGUES</column-0>
+			<column-1>82</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>372,11</column-13>
+		</row>
+		<row id="125">
+			<column-0>LEANDRO DA COSTA ALMEIDA</column-0>
+			<column-1>630</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>CONTRATO 001 de 04/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.008,31</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="126">
+			<column-0>LEIA DA SILVA RIBEIRO</column-0>
+			<column-1>210</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.027,08</column-12>
+			<column-13>347,73</column-13>
+		</row>
+		<row id="127">
+			<column-0>LEONILDA DA SILVA RIBEIRO</column-0>
+			<column-1>83</column-1>
+			<column-2>05/02/2002</column-2>
+			<column-3>PORTARIA 001 de 05/02/2002</column-3>
+			<column-4>180</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.798,34</column-12>
+			<column-13>583,21</column-13>
+		</row>
+		<row id="128">
+			<column-0>LIDIAINE DA SILVA FERREIRA RODRIGUES</column-0>
+			<column-1>289</column-1>
+			<column-2>14/04/2008</column-2>
+			<column-3>PORTARIA 001 de 14/04/2008</column-3>
+			<column-4>200</column-4>
+			<column-5>Secretario do Controle Interno</column-5>
+			<column-6>Secretaria de Controle Interno</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>545,95</column-13>
+		</row>
+		<row id="129">
+			<column-0>LUCIANA VIANA GOMES</column-0>
+			<column-1>627</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>CONTRATO 001 de 04/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>PSICOLOGO - DETERMINADO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>164,32</column-13>
+		</row>
+		<row id="130">
+			<column-0>LUCIANO GONCALVES SILVA</column-0>
+			<column-1>234</column-1>
+			<column-2>12/04/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>Secretario Especial de Governo</column-5>
+			<column-6>Secretaria Especial de Governo</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>545,95</column-13>
+		</row>
+		<row id="131">
+			<column-0>LUCIENE ALVES DOS SANTOS</column-0>
+			<column-1>514</column-1>
+			<column-2>01/01/2014</column-2>
+			<column-3>PORTARIA 001 de 01/01/2014</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE SOCIAL - DETERMINADO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>710,28</column-13>
+		</row>
+		<row id="132">
+			<column-0>LUCIENE LOURENCO DE ARAUJO</column-0>
+			<column-1>88</column-1>
+			<column-2>12/04/2006</column-2>
+			<column-3>PORTARIA 001 de 12/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>Prefeito Municipal</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>10.200,00</column-12>
+			<column-13>2.400,48</column-13>
+		</row>
+		<row id="133">
+			<column-0>LUCILENE DA SILVA SOUZA</column-0>
+			<column-1>511</column-1>
+			<column-2>01/02/2013</column-2>
+			<column-3>PORTARIA 001 de 01/02/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>SECRETARIA EXECUTIVA DOS CONSELHOS MUNIC</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>524,35</column-13>
+		</row>
+		<row id="134">
+			<column-0>LUCILENE DA SILVA SOUZA</column-0>
+			<column-1>511</column-1>
+			<column-2>01/02/2013</column-2>
+			<column-3>PORTARIA 001 de 01/02/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>SECRETARIA EXECUTIVA DOS CONSELHOS MUNIC</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>164,32</column-13>
+		</row>
+		<row id="135">
+			<column-0>LUCILENE RIBEIRO DA COSTA</column-0>
+			<column-1>202</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="136">
+			<column-0>LUCILENE RIBEIRO DA COSTA</column-0>
+			<column-1>202</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="137">
+			<column-0>LUCY RODRIGUES LOPES SOUZA</column-0>
+			<column-1>533</column-1>
+			<column-2>01/04/2013</column-2>
+			<column-3>CONTRATO 001 de 03/09/2018</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO - DETERMINADO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.458,33</column-12>
+			<column-13>115,56</column-13>
+		</row>
+		<row id="138">
+			<column-0>LUIZMAR GOMES DE NAZARETH</column-0>
+			<column-1>91</column-1>
+			<column-2>17/01/2001</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>OPERADOR DE MAQUINAS PESADAS</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.620,00</column-12>
+			<column-13>506,26</column-13>
+		</row>
+		<row id="139">
+			<column-0>LUIZMAR GOMES DE NAZARETH</column-0>
+			<column-1>91</column-1>
+			<column-2>17/01/2001</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>OPERADOR DE MAQUINAS PESADAS</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.620,00</column-12>
+			<column-13>130,12</column-13>
+		</row>
+		<row id="140">
+			<column-0>LUZIA MARTINS DE ALENCAR SANTOS</column-0>
+			<column-1>639</column-1>
+			<column-2>19/02/2021</column-2>
+			<column-3>DECRETO 057 de 19/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>457,36</column-12>
+			<column-13>33,00</column-13>
+		</row>
+		<row id="141">
+			<column-0>MAIARA DOS SANTOS XAVIER</column-0>
+			<column-1>629</column-1>
+			<column-2>21/01/2021</column-2>
+			<column-3>DECRETO 024 de 21/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>AGENTE DE ENDEMIAS</column-5>
+			<column-6>ACE-Agente de Combate a Endemias</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.260,00</column-12>
+			<column-13>151,72</column-13>
+		</row>
+		<row id="142">
+			<column-0>MANOEL FERREIRA DE BRITO</column-0>
+			<column-1>110</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.165,36</column-12>
+			<column-13>1.430,76</column-13>
+		</row>
+		<row id="143">
+			<column-0>MANOEL GONZAGA DE BRITO</column-0>
+			<column-1>114</column-1>
+			<column-2>07/01/2002</column-2>
+			<column-3>PORTARIA 001 de 07/01/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="144">
+			<column-0>MANOEL GONZAGA DE BRITO</column-0>
+			<column-1>114</column-1>
+			<column-2>07/01/2002</column-2>
+			<column-3>PORTARIA 001 de 07/01/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="145">
+			<column-0>MANOEL SILVA VENTURA</column-0>
+			<column-1>116</column-1>
+			<column-2>02/05/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>393,65</column-13>
+		</row>
+		<row id="146">
+			<column-0>MARCIA DIAS VIEIRA OLIVEIRA</column-0>
+			<column-1>613</column-1>
+			<column-2>10/01/2020</column-2>
+			<column-3>DECRETO 001 de 10/01/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>Conselheiro Tutelar</column-5>
+			<column-6>CONSELHO TUTELAR</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Conselho Tutelar</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.148,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="147">
+			<column-0>MARCIO LOPES NAVARRO</column-0>
+			<column-1>269</column-1>
+			<column-2>16/11/2020</column-2>
+			<column-3>DECRETO 001 de 16/11/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>ALMOXARIFE</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.548,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="148">
+			<column-0>MARIA ALICE CONCEICAO DOS SANTOS</column-0>
+			<column-1>235</column-1>
+			<column-2>10/04/2006</column-2>
+			<column-3>PORTARIA 001 de 10/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>OPERADOR DO PROGRAMA BOLSA FAMILIA</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.648,62</column-12>
+			<column-13>103,12</column-13>
+		</row>
+		<row id="149">
+			<column-0>MARIA ALICE PEREIRA DOS SANTOS</column-0>
+			<column-1>107</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 068 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>COORDENADOR PEDAGOGICO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.220,48</column-12>
+			<column-13>1.206,76</column-13>
+		</row>
+		<row id="150">
+			<column-0>MARIA APARECIDA DE OLIVEIRA PEREIRA</column-0>
+			<column-1>98</column-1>
+			<column-2>17/01/1996</column-2>
+			<column-3>PORTARIA 001 de 17/01/1993</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL I</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Rescisorio</column-11>
+			<column-12>8.003,37</column-12>
+			<column-13>356,26</column-13>
+		</row>
+		<row id="151">
+			<column-0>MARIA APARECIDA DOS SANTOS SILVA</column-0>
+			<column-1>605</column-1>
+			<column-2>15/04/2019</column-2>
+			<column-3>DECRETO 036 de 01/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.148,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="152">
+			<column-0>MARIA APARECIDA SOARES CAMPOS</column-0>
+			<column-1>105</column-1>
+			<column-2>01/02/2006</column-2>
+			<column-3>PORTARIA 001 de 01/02/2006</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.894,86</column-12>
+			<column-13>350,84</column-13>
+		</row>
+		<row id="153">
+			<column-0>MARIA DALVA PEREIRA BISPO PEDROSA</column-0>
+			<column-1>515</column-1>
+			<column-2>15/04/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="154">
+			<column-0>MARIA DAS DORES DOS SANTOS</column-0>
+			<column-1>109</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="155">
+			<column-0>MARIA DAS DORES DOS SANTOS</column-0>
+			<column-1>109</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="156">
+			<column-0>MARIA DAS MERCES PEREIRA RIBEIRO</column-0>
+			<column-1>272</column-1>
+			<column-2>07/01/2013</column-2>
+			<column-3>PORTARIA 001 de 07/01/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO - DETERMINADO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.750,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="157">
+			<column-0>MARIA DE FATIMA AGUIAR PORTILHO LOPES</column-0>
+			<column-1>99</column-1>
+			<column-2>02/08/1993</column-2>
+			<column-3>PORTARIA 001 de 02/08/1993</column-3>
+			<column-4>190</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.539,19</column-12>
+			<column-13>725,70</column-13>
+		</row>
+		<row id="158">
+			<column-0>MARIA DE FATIMA ALVES DE SOUZA</column-0>
+			<column-1>614</column-1>
+			<column-2>10/01/2020</column-2>
+			<column-3>DECRETO 001 de 10/01/2020</column-3>
+			<column-4>200</column-4>
+			<column-5>Conselheiro Tutelar</column-5>
+			<column-6>CONSELHO TUTELAR</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Conselho Tutelar</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.148,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="159">
+			<column-0>MARIA DE JESUS MIRANDA GUIMARAES</column-0>
+			<column-1>104</column-1>
+			<column-2>01/02/2013</column-2>
+			<column-3>CONTRATO 001 de 01/02/2013</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL II- DETERMINADO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.381,14</column-12>
+			<column-13>227,59</column-13>
+		</row>
+		<row id="160">
+			<column-0>MARIA DIVINA DE LIMA</column-0>
+			<column-1>178</column-1>
+			<column-2>01/08/2002</column-2>
+			<column-3>PORTARIA 001 de 01/08/2002</column-3>
+			<column-4>165</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.526,89</column-12>
+			<column-13>858,11</column-13>
+		</row>
+		<row id="161">
+			<column-0>MARIA DIVINA DE SOUZA SANTOS</column-0>
+			<column-1>313</column-1>
+			<column-2>01/01/2014</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>ENFERMEIRO/SANITARISTA - DETERMINADO</column-5>
+			<column-6>NASF-Nucleo de Apoio a Saude da Familia</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.800,00</column-12>
+			<column-13>342,69</column-13>
+		</row>
+		<row id="162">
+			<column-0>MARIA DO BONFIM FRANCISCO DOS SANTOS SILVA</column-0>
+			<column-1>115</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 082 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>Diretor de Escola Medio Porte</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.622,43</column-12>
+			<column-13>753,46</column-13>
+		</row>
+		<row id="163">
+			<column-0>MARIA ELIETE PEREIRA</column-0>
+			<column-1>273</column-1>
+			<column-2>08/01/2013</column-2>
+			<column-3>PORTARIA 001 de 08/01/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO - DETERMINADO</column-5>
+			<column-6>Secretaria de Meio Ambiente e Turismo</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="164">
+			<column-0>MARIA JOELENE DE CARVALHO SILVEIRA</column-0>
+			<column-1>634</column-1>
+			<column-2>01/02/2021</column-2>
+			<column-3>DECRETO 040 de 01/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>COORDENADOR DA POLITICA DE MEIO AMBIENTE</column-5>
+			<column-6>Secretaria de Meio Ambiente e Turismo</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>119,32</column-13>
+		</row>
+		<row id="165">
+			<column-0>MARIA JOSE DA SILVA CAMPOS BEZERRA</column-0>
+			<column-1>120</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 074 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>COORDENADOR DE CRECHE</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.220,48</column-12>
+			<column-13>632,16</column-13>
+		</row>
+		<row id="166">
+			<column-0>MARIA JOSE DA SILVA MIRANDA</column-0>
+			<column-1>236</column-1>
+			<column-2>10/04/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSESSOR DE ASSISTENCIA SOCIAL</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.800,00</column-12>
+			<column-13>499,33</column-13>
+		</row>
+		<row id="167">
+			<column-0>MARIA JOSE DA SILVA MIRANDA</column-0>
+			<column-1>236</column-1>
+			<column-2>10/04/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSESSOR DE ASSISTENCIA SOCIAL</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.800,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="168">
+			<column-0>MARIA LUCIA ALVES DE OLIVEIRA</column-0>
+			<column-1>106</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.263,90</column-12>
+			<column-13>1.332,09</column-13>
+		</row>
+		<row id="169">
+			<column-0>MARIA MARTINS MENDES</column-0>
+			<column-1>102</column-1>
+			<column-2>02/08/1993</column-2>
+			<column-3>PORTARIA 001 de 02/08/1993</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.991,39</column-12>
+			<column-13>961,82</column-13>
+		</row>
+		<row id="170">
+			<column-0>MARIA RAIMUNDA FERREIRA DE BRITO</column-0>
+			<column-1>168</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>372,39</column-13>
+		</row>
+		<row id="171">
+			<column-0>MARIA SONALBA RODRIGUES DE SOUZA FERREIRA</column-0>
+			<column-1>412</column-1>
+			<column-2>18/01/2011</column-2>
+			<column-3>CONTRATO 001 de 18/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>ATENDENTE DE SERVICO SOCIAL</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.400,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="172">
+			<column-0>MARILENE PEREIRA ALVES</column-0>
+			<column-1>112</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.220,48</column-12>
+			<column-13>662,07</column-13>
+		</row>
+		<row id="173">
+			<column-0>MARILZA DE PINA SANTOS SOARES</column-0>
+			<column-1>516</column-1>
+			<column-2>18/08/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.347,24</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="174">
+			<column-0>MARILZA DE PINA SANTOS SOARES</column-0>
+			<column-1>516</column-1>
+			<column-2>18/08/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="175">
+			<column-0>MARINALVA PEREIRA ALVES BARBOSA</column-0>
+			<column-1>422</column-1>
+			<column-2>03/08/2011</column-2>
+			<column-3>DECRETO 001 de 10/01/2020</column-3>
+			<column-4>220</column-4>
+			<column-5>Conselheiro Tutelar</column-5>
+			<column-6>CONSELHO TUTELAR</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Conselho Tutelar</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.148,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="176">
+			<column-0>MARINEIDE FRANCISCO DA CONCEICAO</column-0>
+			<column-1>204</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="177">
+			<column-0>MARINEIDE FRANCISCO DA CONCEICAO</column-0>
+			<column-1>204</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="178">
+			<column-0>MARINEIDE INACIO DE BARROS</column-0>
+			<column-1>216</column-1>
+			<column-2>01/02/2013</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE-DETERMINADO</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="179">
+			<column-0>MARIO RONIELE DOS SANTOS MOREIRA</column-0>
+			<column-1>596</column-1>
+			<column-2>01/03/2019</column-2>
+			<column-3>CONTRATO 001 de 01/03/2019</column-3>
+			<column-4>200</column-4>
+			<column-5>OPERADOR DE MAQUINAS PESADAS-DETERMINADO</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.620,00</column-12>
+			<column-13>130,12</column-13>
+		</row>
+		<row id="180">
+			<column-0>MARIOLINA DE SOUZA SANTOS</column-0>
+			<column-1>184</column-1>
+			<column-2>26/04/2006</column-2>
+			<column-3>PORTARIA 001 de 26/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.298,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="181">
+			<column-0>MARISVANIA FRANCISCO REGES</column-0>
+			<column-1>237</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 001 de 17/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>GESTOR MUN. DO PROG. BOLSA FAMILIA E DO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.800,00</column-12>
+			<column-13>846,70</column-13>
+		</row>
+		<row id="182">
+			<column-0>MARISVANIA FRANCISCO REGES</column-0>
+			<column-1>237</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 001 de 17/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>GESTOR MUN. DO PROG. BOLSA FAMILIA E DO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.800,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="183">
+			<column-0>MARLENE BENEDITA DE CARVALHO LEMOS</column-0>
+			<column-1>194</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>165</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.692,69</column-12>
+			<column-13>518,62</column-13>
+		</row>
+		<row id="184">
+			<column-0>MARLY PINTO CERQUEIRA JACOMOSSI</column-0>
+			<column-1>108</column-1>
+			<column-2>12/08/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ATENDENTE DE SERVICO SOCIAL</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>420,54</column-13>
+		</row>
+		<row id="185">
+			<column-0>MIRIAM PEREIRA FARINHA</column-0>
+			<column-1>117</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>120</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.532,28</column-12>
+			<column-13>1.253,88</column-13>
+		</row>
+		<row id="186">
+			<column-0>NAGILA DOS REIS PERES</column-0>
+			<column-1>535</column-1>
+			<column-2>02/01/2014</column-2>
+			<column-3>PORTARIA 001 de 01/01/2014</column-3>
+			<column-4>200</column-4>
+			<column-5>FISIOTERAPEUTA - DETERMINADO</column-5>
+			<column-6>ACADEMIA DA SAUDE</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>164,32</column-13>
+		</row>
+		<row id="187">
+			<column-0>NAIZA BISPO DE OLIVEIRA</column-0>
+			<column-1>267</column-1>
+			<column-2>30/05/2007</column-2>
+			<column-3>PORTARIA 001 de 30/05/2007</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="188">
+			<column-0>NATALINO FRANCISCO DO NASCIMENTO</column-0>
+			<column-1>457</column-1>
+			<column-2>11/01/2013</column-2>
+			<column-3>PORTARIA 001 de 11/01/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="189">
+			<column-0>NATALINO GONCALVES DIAS</column-0>
+			<column-1>121</column-1>
+			<column-2>17/01/1996</column-2>
+			<column-3>PORTARIA 001 de 17/01/1996</column-3>
+			<column-4>200</column-4>
+			<column-5>Orientador Educacional</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.507,84</column-12>
+			<column-13>1.171,76</column-13>
+		</row>
+		<row id="190">
+			<column-0>NATALINO GONCALVES DIAS</column-0>
+			<column-1>121</column-1>
+			<column-2>17/01/1996</column-2>
+			<column-3>PORTARIA 001 de 17/01/1996</column-3>
+			<column-4>200</column-4>
+			<column-5>Orientador Educacional</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>4.315,20</column-12>
+			<column-13>657,64</column-13>
+		</row>
+		<row id="191">
+			<column-0>NEWTON MARTINS PERES</column-0>
+			<column-1>559</column-1>
+			<column-2>01/06/2016</column-2>
+			<column-3>DECRETO 001 de 01/06/2016</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR ESPECIAL I</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.100,00</column-12>
+			<column-13>303,01</column-13>
+		</row>
+		<row id="192">
+			<column-0>NEWTON MARTINS PERES</column-0>
+			<column-1>559</column-1>
+			<column-2>01/06/2016</column-2>
+			<column-3>DECRETO 001 de 01/06/2016</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR ESPECIAL I</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.500,00</column-12>
+			<column-13>119,32</column-13>
+		</row>
+		<row id="193">
+			<column-0>NILDA PINTO DE LIMA</column-0>
+			<column-1>125</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="194">
+			<column-0>NILZA MARIA DOS REIS</column-0>
+			<column-1>198</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>COORDENADOR PEDAGOGICO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.220,48</column-12>
+			<column-13>1.298,33</column-13>
+		</row>
+		<row id="195">
+			<column-0>NIVONA FERREIRA DE SOUZA SANTOS</column-0>
+			<column-1>199</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>190</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.009,45</column-12>
+			<column-13>1.852,98</column-13>
+		</row>
+		<row id="196">
+			<column-0>OLIVAN VIEIRA DE MENEZES</column-0>
+			<column-1>571</column-1>
+			<column-2>02/05/2017</column-2>
+			<column-3>DECRETO 001 de 02/05/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSESSOR ESPECIAL II</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.880,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="197">
+			<column-0>OSIEL FERREIRA BARBOSA</column-0>
+			<column-1>554</column-1>
+			<column-2>03/11/2015</column-2>
+			<column-3>CONTRATO 001 de 03/11/2015</column-3>
+			<column-4>200</column-4>
+			<column-5>OPERADOR DE MAQUINA LEVES - DETERMINADO</column-5>
+			<column-6>Secretaria de Agricultura e Pecuaria</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.298,62</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="198">
+			<column-0>OSIEL FERREIRA BARBOSA</column-0>
+			<column-1>554</column-1>
+			<column-2>03/11/2015</column-2>
+			<column-3>CONTRATO 001 de 03/11/2015</column-3>
+			<column-4>200</column-4>
+			<column-5>OPERADOR DE MAQUINA LEVES - DETERMINADO</column-5>
+			<column-6>Secretaria de Agricultura e Pecuaria</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Complemento de Folha de Pagamento</column-11>
+			<column-12>412,50</column-12>
+			<column-13>0,00</column-13>
+		</row>
+		<row id="199">
+			<column-0>OSMAIR MOREIRA CARNEIRO</column-0>
+			<column-1>238</column-1>
+			<column-2>12/04/2006</column-2>
+			<column-3>PORTARIA 023 de 12/04/2006</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>ACE-Agente de Combate a Endemias</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.860,00</column-12>
+			<column-13>111,22</column-13>
+		</row>
+		<row id="200">
+			<column-0>OSMAIR MOREIRA CARNEIRO</column-0>
+			<column-1>238</column-1>
+			<column-2>12/04/2006</column-2>
+			<column-3>PORTARIA 023 de 12/04/2006</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>ACE-Agente de Combate a Endemias</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="201">
+			<column-0>PALMERINDA PEREIRA DOS SANTOS</column-0>
+			<column-1>133</column-1>
+			<column-2>01/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.350,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="202">
+			<column-0>PALMERINDA PEREIRA DOS SANTOS</column-0>
+			<column-1>133</column-1>
+			<column-2>01/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="203">
+			<column-0>PATRICIA FRANCISCA DA SILVA SOUZA</column-0>
+			<column-1>132</column-1>
+			<column-2>23/02/2009</column-2>
+			<column-3>DECRETO 034 de 01/02/2021</column-3>
+			<column-4>220</column-4>
+			<column-5>TECNICO DE ENFERMAGEM</column-5>
+			<column-6>PSF-PROGRAMA DE SAUDE DA FAMILIA</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.747,24</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="204">
+			<column-0>PATRICIA FRANCISCA DA SILVA SOUZA</column-0>
+			<column-1>132</column-1>
+			<column-2>23/02/2009</column-2>
+			<column-3>DECRETO 034 de 01/02/2021</column-3>
+			<column-4>220</column-4>
+			<column-5>TECNICO DE ENFERMAGEM</column-5>
+			<column-6>PSF-PROGRAMA DE SAUDE DA FAMILIA</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="205">
+			<column-0>PEDRO ADAO FRANCISCO REGES</column-0>
+			<column-1>134</column-1>
+			<column-2>16/01/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>CHEFE DO DEP.TO DO ALMOXARIFADO</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.300,00</column-12>
+			<column-13>206,32</column-13>
+		</row>
+		<row id="206">
+			<column-0>POLIANA CARVALHO BORGES</column-0>
+			<column-1>270</column-1>
+			<column-2>22/02/2021</column-2>
+			<column-3>CONTRATO 001 de 22/02/2021</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>375,00</column-12>
+			<column-13>28,12</column-13>
+		</row>
+		<row id="207">
+			<column-0>RAIMUNDA MOURA DO NASCIMENTO</column-0>
+			<column-1>291</column-1>
+			<column-2>06/05/2008</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>PACS - Programa de Agentes Comunitarios de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>139,32</column-13>
+		</row>
+		<row id="208">
+			<column-0>RAIMUNDO NONATO BARROS LEITE</column-0>
+			<column-1>478</column-1>
+			<column-2>12/02/2019</column-2>
+			<column-3>DECRETO 011 de 12/02/2019</column-3>
+			<column-4>200</column-4>
+			<column-5>Chefe do Dept. de Turismo e Meio Ambient</column-5>
+			<column-6>Secretaria de Meio Ambiente e Turismo</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.800,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="209">
+			<column-0>RAQUEL BERNARDES DE SOUZA</column-0>
+			<column-1>399</column-1>
+			<column-2>06/12/2009</column-2>
+			<column-3>PORTARIA 001 de 01/06/2016</column-3>
+			<column-4>200</column-4>
+			<column-5>TECNICO DE ENFERMAGEM - DETERMINADO</column-5>
+			<column-6>PSF-PROGRAMA DE SAUDE DA FAMILIA</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.529,87</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="210">
+			<column-0>RAQUEL MOREIRA BARROS</column-0>
+			<column-1>532</column-1>
+			<column-2>04/02/2013</column-2>
+			<column-3>DECRETO 044 de 04/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>TECNICO DE ENFERMAGEM</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.904,87</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="211">
+			<column-0>RENATA CRISTINA DE OLIVEIRA</column-0>
+			<column-1>507</column-1>
+			<column-2>05/11/2020</column-2>
+			<column-3>PORTARIA 001 de 05/03/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>TESOUREIRO</column-5>
+			<column-6>Secretaria de Financas</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.800,00</column-12>
+			<column-13>164,32</column-13>
+		</row>
+		<row id="212">
+			<column-0>RONNEY PETERSON BATISTA SOARES</column-0>
+			<column-1>315</column-1>
+			<column-2>04/01/2021</column-2>
+			<column-3>DECRETO 005 de 04/01/2021</column-3>
+			<column-4>220</column-4>
+			<column-5>Secretario de Transportes e Obras</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.900,00</column-12>
+			<column-13>489,07</column-13>
+		</row>
+		<row id="213">
+			<column-0>ROSANGELA DA SILVA MIRANDA</column-0>
+			<column-1>240</column-1>
+			<column-2>12/04/2006</column-2>
+			<column-3>PORTARIA 001 de 12/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.550,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="214">
+			<column-0>ROSEMEIRY ALVES CAMPOS</column-0>
+			<column-1>205</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="215">
+			<column-0>ROSILMA BORGES CAVALCANTE ROCHA</column-0>
+			<column-1>138</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 090 de 09/02/1995</column-3>
+			<column-4>200</column-4>
+			<column-5>Secretario de Escola Grande Porte</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.702,82</column-12>
+			<column-13>737,61</column-13>
+		</row>
+		<row id="216">
+			<column-0>ROSILMA BORGES CAVALCANTE ROCHA</column-0>
+			<column-1>138</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 090 de 09/02/1995</column-3>
+			<column-4>200</column-4>
+			<column-5>Secretario de Escola Grande Porte</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Decimo Terceiro</column-11>
+			<column-12>4.501,85</column-12>
+			<column-13>679,41</column-13>
+		</row>
+		<row id="217">
+			<column-0>ROZILDA ALVES DE SOUZA VICENTE</column-0>
+			<column-1>141</column-1>
+			<column-2>01/02/2003</column-2>
+			<column-3>PORTARIA 001 de 01/02/2003</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.298,62</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="218">
+			<column-0>SANTINA MIRANDA DE JESUS</column-0>
+			<column-1>146</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="219">
+			<column-0>SELMA PERSIO VIEIRA</column-0>
+			<column-1>531</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 002 de 17/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>OPERADOR DE SISTEMAS ESPECIAIS</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.597,24</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="220">
+			<column-0>SEMIDEUZA VIEIRA DA COSTA</column-0>
+			<column-1>147</column-1>
+			<column-2>02/08/1993</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.232,00</column-12>
+			<column-13>356,57</column-13>
+		</row>
+		<row id="221">
+			<column-0>SIDONIA FLORENCIO DA SILVA</column-0>
+			<column-1>214</column-1>
+			<column-2>03/03/2003</column-2>
+			<column-3>PORTARIA 001 de 03/03/2003</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="222">
+			<column-0>SILVANA ALVES TEIXEIRA</column-0>
+			<column-1>183</column-1>
+			<column-2>01/08/2002</column-2>
+			<column-3>PORTARIA 001 de 01/08/2002</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.165,36</column-12>
+			<column-13>375,72</column-13>
+		</row>
+		<row id="223">
+			<column-0>SIRLEI DIAS RIBEIRO</column-0>
+			<column-1>149</column-1>
+			<column-2>15/02/2002</column-2>
+			<column-3>PORTARIA 001 de 15/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="224">
+			<column-0>SIRLEY MARIANO DA SILVA</column-0>
+			<column-1>148</column-1>
+			<column-2>01/01/1994</column-2>
+			<column-3>PORTARIA 100 de 01/01/1994</column-3>
+			<column-4>190</column-4>
+			<column-5>PROFESSOR NIVEL II</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.346,67</column-12>
+			<column-13>704,15</column-13>
+		</row>
+		<row id="225">
+			<column-0>SUELY ALVES DE ALMEIDA</column-0>
+			<column-1>517</column-1>
+			<column-2>18/02/2014</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Secretaria do Trabalho, Ass. Social e Ju</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.808,62</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="226">
+			<column-0>SUZANA DIAS PADILHA</column-0>
+			<column-1>151</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>ASSESSOR ESPECIAL II</column-5>
+			<column-6>Secretaria de Controle Interno</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.516,00</column-12>
+			<column-13>165,76</column-13>
+		</row>
+		<row id="227">
+			<column-0>TELMA MARINEZ SILVA</column-0>
+			<column-1>152</column-1>
+			<column-2>24/07/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUXILIAR DE ENFERMAGEM</column-5>
+			<column-6>PAB - Programa de Atencao Basica</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.854,54</column-12>
+			<column-13>499,20</column-13>
+		</row>
+		<row id="228">
+			<column-0>TEREZA DA SILVA SOUZA</column-0>
+			<column-1>321</column-1>
+			<column-2>19/01/2009</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>TECNICO DE ENFERMAGEM - DETERMINADO</column-5>
+			<column-6>PAB - Programa de Atencao Basica</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.576,78</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="229">
+			<column-0>THAMIRES ALVES DE OLIVEIRA</column-0>
+			<column-1>608</column-1>
+			<column-2>02/09/2019</column-2>
+			<column-3>CONTRATO 001 de 02/09/2019</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL II- DETERMINADO</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.381,14</column-12>
+			<column-13>227,59</column-13>
+		</row>
+		<row id="230">
+			<column-0>UEULER PAULINO DE OLIVEIRA</column-0>
+			<column-1>479</column-1>
+			<column-2>01/02/2021</column-2>
+			<column-3>DECRETO 029 de 05/03/2013</column-3>
+			<column-4>200</column-4>
+			<column-5>DIRETOR DO PROG. DO FORT. DA AGRIC. FAMI</column-5>
+			<column-6>Secretaria de Agricultura e Pecuaria</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.000,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="231">
+			<column-0>VALDECI AGUIAR PORTILHO</column-0>
+			<column-1>155</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.911,07</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="232">
+			<column-0>VALDENICE NOGUEIRA DE ARAUJO</column-0>
+			<column-1>386</column-1>
+			<column-2>02/01/2009</column-2>
+			<column-3>PORTARIA 001 de 02/01/2009</column-3>
+			<column-4>300</column-4>
+			<column-5>TECNICO DE ENFERMAGEM - DETERMINADO</column-5>
+			<column-6>PAB - Programa de Atencao Basica</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.475,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="233">
+			<column-0>VALDEREZ PEREIRA DOS SANTOS</column-0>
+			<column-1>158</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>165</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.529,14</column-12>
+			<column-13>1.241,52</column-13>
+		</row>
+		<row id="234">
+			<column-0>VALDES BORGES CAVALCANTE</column-0>
+			<column-1>256</column-1>
+			<column-2>22/02/2008</column-2>
+			<column-3>PORTARIA 047 de 22/02/2008</column-3>
+			<column-4>220</column-4>
+			<column-5>MOTORISTA</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.623,57</column-12>
+			<column-13>404,43</column-13>
+		</row>
+		<row id="235">
+			<column-0>VALDIVINO ALVES DE SOUZA</column-0>
+			<column-1>192</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 001 de 04/02/2002</column-3>
+			<column-4>200</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>4.220,48</column-12>
+			<column-13>632,16</column-13>
+		</row>
+		<row id="236">
+			<column-0>VALDIVINO FRANCISCO DOS SANTOS</column-0>
+			<column-1>157</column-1>
+			<column-2>17/01/1996</column-2>
+			<column-3>PORTARIA 001 de 17/01/1996</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL I</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.942,18</column-12>
+			<column-13>317,72</column-13>
+		</row>
+		<row id="237">
+			<column-0>VANESSA DE ALMEIDA BRITO SOARES</column-0>
+			<column-1>597</column-1>
+			<column-2>08/04/2019</column-2>
+			<column-3>CONTRATO 001 de 07/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO - DETERMINADO</column-5>
+			<column-6>Secretaria de Controle Interno</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.548,62</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="238">
+			<column-0>VANUSIA DE PINAS BANDEIRA</column-0>
+			<column-1>209</column-1>
+			<column-2>04/02/2002</column-2>
+			<column-3>PORTARIA 056 de 04/02/2002</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.894,86</column-12>
+			<column-13>1.173,30</column-13>
+		</row>
+		<row id="239">
+			<column-0>VERA NILZA ALVES SOUTO SANTOS</column-0>
+			<column-1>159</column-1>
+			<column-2>28/02/1995</column-2>
+			<column-3>PORTARIA 001 de 28/02/1995</column-3>
+			<column-4>150</column-4>
+			<column-5>PROFESSOR NIVEL III</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 60%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>3.527,11</column-12>
+			<column-13>623,27</column-13>
+		</row>
+		<row id="240">
+			<column-0>VILMA DAS DORES CARDOSO DE SOUZA</column-0>
+			<column-1>160</column-1>
+			<column-2>27/02/1995</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>CHEFE DO SETOR DE ENFERMAGEM</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.800,00</column-12>
+			<column-13>108,34</column-13>
+		</row>
+		<row id="241">
+			<column-0>WALDERI ATAIDES DE CASTRO</column-0>
+			<column-1>163</column-1>
+			<column-2>09/02/1995</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>220</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.232,00</column-12>
+			<column-13>95,20</column-13>
+		</row>
+		<row id="242">
+			<column-0>WANDERSON DIAS LEAL</column-0>
+			<column-1>308</column-1>
+			<column-2>03/09/2014</column-2>
+			<column-3>PORTARIA 000 de 03/09/2014</column-3>
+			<column-4>220</column-4>
+			<column-5>OPERADOR DE MAQUINA LEVES - DETERMINADO</column-5>
+			<column-6>Secretaria de Agricultura e Pecuaria</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.022,24</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="243">
+			<column-0>WELSON FERREIRA DE SOUZA</column-0>
+			<column-1>491</column-1>
+			<column-2>19/02/2015</column-2>
+			<column-3>PORTARIA 001 de 19/02/2015</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.717,87</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="244">
+			<column-0>WERIKA PEREIRA REGES</column-0>
+			<column-1>545</column-1>
+			<column-2>01/04/2015</column-2>
+			<column-3>PORTARIA 000 de 01/04/2015</column-3>
+			<column-4>200</column-4>
+			<column-5>ASSISTENTE ADMINISTRATIVO - DETERMINADO</column-5>
+			<column-6>Secretaria de Financas</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.250,00</column-12>
+			<column-13>96,82</column-13>
+		</row>
+		<row id="245">
+			<column-0>WESLIVANIA SOARES CAVALCANTE COSTA</column-0>
+			<column-1>186</column-1>
+			<column-2>17/04/2006</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>DIRETOR DE RECURSOS HUMANOS</column-5>
+			<column-6>Secretaria de Administracao</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.880,00</column-12>
+			<column-13>146,32</column-13>
+		</row>
+		<row id="246">
+			<column-0>WEULANIO CAMPOS COELHO</column-0>
+			<column-1>259</column-1>
+			<column-2>12/07/2020</column-2>
+			<column-3>CONTRATO 001 de 01/06/2017</column-3>
+			<column-4>200</column-4>
+			<column-5>OPERADOR DE MAQUINAS PESADAS-DETERMINADO</column-5>
+			<column-6>Secretaria de Transportes e Obras</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.154,60</column-12>
+			<column-13>130,12</column-13>
+		</row>
+		<row id="247">
+			<column-0>WEVERSON MAXIMO DA CUNHA</column-0>
+			<column-1>636</column-1>
+			<column-2>15/02/2021</column-2>
+			<column-3>DECRETO 049 de 15/02/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>AGENTE COMUNITARIO DE SAUDE</column-5>
+			<column-6>Fundo Municipal de Saude</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL SAUDE</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>826,66</column-12>
+			<column-13>69,74</column-13>
+		</row>
+		<row id="248">
+			<column-0>WIGNO TOKIO</column-0>
+			<column-1>427</column-1>
+			<column-2>08/01/2013</column-2>
+			<column-3>DECRETO 018 de 04/01/2021</column-3>
+			<column-4>200</column-4>
+			<column-5>MOTORISTA DO GABINETE DO PREFEITO</column-5>
+			<column-6>Gabinete do Prefeito Municipal</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Comissionado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>2.048,62</column-12>
+			<column-13>387,51</column-13>
+		</row>
+		<row id="249">
+			<column-0>WILMAR MARTINS DA SILVA</column-0>
+			<column-1>500</column-1>
+			<column-2>01/02/2014</column-2>
+			<column-3>PORTARIA 000 de</column-3>
+			<column-4>200</column-4>
+			<column-5>AUXILIAR DE SERV. GERAIS - DETERMINADO</column-5>
+			<column-6>Departamento de Limpeza Publica</column-6>
+			<column-7>Servidor publico nAo-efetivo (demissivel ad nutum ou admitido por legisla#o especial, no regido pela CLT).</column-7>
+			<column-8>PREFEITURA MUNICIPAL DE JAU DO TOCANTINS</column-8>
+			<column-9>Tempo Determinado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.717,87</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="250">
+			<column-0>ZILMA GOMES BARBOSA DA CRUZ</column-0>
+			<column-1>161</column-1>
+			<column-2>25/04/2006</column-2>
+			<column-3>PORTARIA 001 de 25/04/2006</column-3>
+			<column-4>200</column-4>
+			<column-5>AUX. SERV. GERAIS</column-5>
+			<column-6>Secretaria de Educacao - Fundeb 40%</column-6>
+			<column-7>Servidor regido pelo Regime Jursdico nico (federal, estadual e municipal) e Militar.</column-7>
+			<column-8>FUNDO MUNICIPAL DE EDUCACAO</column-8>
+			<column-9>Concursado</column-9>
+			<column-10>Fevereiro/2021</column-10>
+			<column-11>Mensal</column-11>
+			<column-12>1.100,00</column-12>
+			<column-13>83,32</column-13>
+		</row>
+		<row id="251">
+			<column-0>Consulta gerada em 28/07/2021 às 17:43:26</column-0>
+		</row>
+	</data>
+</tabledata>
